@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(86, 30, 190, 0.548);
+    font-size: 17pt;
+    font-family: b 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, tahoma;
+   }
+   .item {
+    font-family: b roya, tahoma;
+        font-weight:bold;
+        color: #182242; 
+   }
+   .new{
+    font-family: b roya, tahoma;
+    font-weight:bold;
+    color: #052e25; 
+   }
+   .nav {
+    font-size: 14pt;
+    font-family: b 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, tahoma;
+   }
